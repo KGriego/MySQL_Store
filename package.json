@@ -1,0 +1,21 @@
+{
+  "name": "MySQL_Store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customerView.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Midlu/MySQL_Store.git",
+  "keywords": [],
+  "author": "KevGri98 <kev.gri32@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Midlu/MySQL_Store/issues"
+  },
+  "homepage": "https://github.com/Midlu/MySQL_Store#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
